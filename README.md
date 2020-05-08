@@ -63,4 +63,4 @@ cd P3_Implement_SLAM
 2. Open the directory of notebooks, using the below command. You'll see all of the project files appear in your local environment; open the first notebook and follow the instructions.
 ```shell
 jupyter notebook
-``
+```
