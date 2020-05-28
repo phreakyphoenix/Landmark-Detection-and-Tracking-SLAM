@@ -64,3 +64,6 @@ cd CVND_P3_Landmark_Detection_and_Tracking_SLAM
 ```shell
 jupyter notebook
 ```
+
+
+LICENSE: This project and associated code is licensed under the terms of the GPLv3.
